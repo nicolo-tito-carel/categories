@@ -1,0 +1,22 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "label": "temperatura"
+    },
+    {
+      "id": 2,
+      "label": "pressione"
+    }
+  ],
+  "variables": [
+    {
+      "id": 1,
+      "variables": [1, 3, 4, 5]
+    },
+    {
+      "id": 2,
+      "variables": [2, 6, 9]
+    }
+  ]
+}
